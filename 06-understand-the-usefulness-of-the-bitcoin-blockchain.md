@@ -142,3 +142,6 @@ Now that the notion of blockchain is clearer, we will be able to look in more de
 - On Bitcoin, the SHA256 hash function is used: the output is always 64 characters regardless of the number of input characters.
 - Hexadecimal is a number system using sixteen distinct symbols to represent numbers. The first ten symbols are the numbers 0 to 9, and the other six are the letters A to F.
 - Checking the hash of a block allows you to verify that the data written in the block is intact.
+
+
+[Next Section ->](07-complete-operation-of-a-bitcoin-transaction.md)

@@ -104,3 +104,6 @@ Your bitcoins are now on your Blockstream Green wallet!
 - It is advisable not to keep your bitcoins or other cryptocurrencies on centralized platforms because in the event of a problem you expose yourself to the partial or total loss of your funds as may have been the case following the falls of the MT.GOX or FTX more recently.
 - Not Your Keys, Not Your Coins -\> Not your keys, not your coins. It's as simple as that.
 - You can easily send bitcoins from one application to another application, but it will be necessary to pay transaction fees to reward the miners who ensure the proper functioning of the Bitcoin system.
+
+
+[Next Section ->](06-understand-the-usefulness-of-the-bitcoin-blockchain.md)

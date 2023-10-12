@@ -215,3 +215,7 @@ Well done, you are now in the Lightning Network. You can save your recovery key 
 - Lightning Network transaction routing is the process by which transactions are transmitted through a series of participating nodes in the Lightning Network, from payer to recipient, efficiently and securely.
 - A Lightning Payment Channel Allows Payments to Be Made Outside of the Bitcoin Blockchain
 - Lightning Network has not yet been widely adopted due to its technical complexity, liquidity issues and routing issues. In addition, few centralized cryptocurrency exchanges integrate Lightning Network.
+
+
+
+[Next Section ->](10-conclusion.md)

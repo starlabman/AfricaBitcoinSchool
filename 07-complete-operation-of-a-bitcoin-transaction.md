@@ -112,3 +112,5 @@ Therefore, "sat/vB" represents the number of satoshis you are willing to pay in 
 - It is not recommended to consider a transaction valid after a single confirmation because there is a risk that this transaction will be canceled.
 - "sat/vB" represents the number of satoshis you are willing to pay in transaction fees
 - Reminder: 1 satoshi = 0.00000001 BTC
+
+[Next Section ->](08-bitcoin-miners-and-nodes.md)

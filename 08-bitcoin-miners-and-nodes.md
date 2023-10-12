@@ -146,3 +146,5 @@ Many people have embarked on an adventure to mine Ethereum, another cryptocurren
 - A mining pool is a group of miners who combine their computing power to increase their chance of solving a block and earning mining rewards.
 - The profitability of mining bitcoins and cryptocurrencies in general depends on many factors but mainly on the cost of hardware and the cost of electricity.
 - It is not recommended to mine bitcoins in Europe because of the high cost of electricity compared to many countries.
+
+[Next Section ->](09-introduction-to-lightning-network.md)
