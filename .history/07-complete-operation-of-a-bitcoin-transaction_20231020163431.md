@@ -89,7 +89,7 @@ If you would like to learn more about the double spend attack, feel free to [con
 ## **View transaction fees on Bitcoin in real time**
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/transaction-bitcoin-mempool.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
 On the site [mempool.space](https://mempool.space/fr/)you can view in real time the estimated price of a transaction necessary for your transaction to be prioritized.

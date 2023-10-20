@@ -128,9 +128,7 @@ We can now report all this data on the Cryptocompare simulator[.com](https://www
 
 In this simulation, we see that bitcoin mining makes us lose money every month because electricity is far too expensive. Let's try with cheap electricity of around $0.03 per Kilowatt-hour (kWh) instead of $0.20 now:
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_2430659f2b44e74e.png)
 
 This time we are profitable by over $1500 per year at current prices, not bad knowing that ASIC "[Bitmain Bitcoin Miner S19](https://shop.bitmain.com/product/detail?pid=000202305061049401097z99C0ug0660)" costs about $1,000 each. You will have understood, the price of electricity is the crux of the matter and we must add to that the fact that the machines (ASICs) make a lot of noise, the price of Bitcoin can go down and the difficulty in the increase (which will therefore reduce profitability).
 
@@ -149,7 +147,9 @@ Many people have embarked on an adventure to mine Ethereum, another cryptocurren
 #
 # **What you must remember**
 
+[Free Bitcoin Training – 2023 Edition](https://coinacademy.fr/formations/bitcoin-ca/)[7. Bitcoin miners and nodes](https://coinacademy.fr/cours/mineurs-et-noeuds-bitcoins/)[What you must remember](https://coinacademy.fr/chapitres/btc-ce-quil-faut-retenir-7/)
 
+**IN PROGRESS**
 
 - There are different types of nodes: full nodes, mining nodes (Mining Nodes or miners) and light nodes.
 - When a miner "mines" bitcoins he is carrying out a task that is time-consuming (which takes time) and is difficult to solve. This task requires good equipment and consumes energy, it is proof of work.

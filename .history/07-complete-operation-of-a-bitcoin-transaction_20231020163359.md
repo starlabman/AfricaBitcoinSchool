@@ -27,7 +27,7 @@ It should be noted that not all nodes have the same mempool, as transactions may
 You can view pending transactions in a mempool in real time on the site [txstreet](https://txstreet.com/v/btc).
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/mempool-transaction-bitcoin.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
 In this image we can see that more than 90,000 transactions are pending, knowing that a block [Bitcoin](###)generally contains 2000 to 4000 transactions. As a reminder, a block is generated every 10 minutes.
@@ -45,7 +45,7 @@ In the Bitcoin system, transaction fees are paid by users to miners to prioritiz
 Bitcoin transactions are similar to auctions because users "bid" with higher transaction fees to have their transactions prioritized by miners.
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/transaction-etape-par-etape.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
 ## **The stages of a transaction until its finalization**
@@ -89,7 +89,7 @@ If you would like to learn more about the double spend attack, feel free to [con
 ## **View transaction fees on Bitcoin in real time**
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/transaction-bitcoin-mempool.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
 On the site [mempool.space](https://mempool.space/fr/)you can view in real time the estimated price of a transaction necessary for your transaction to be prioritized.

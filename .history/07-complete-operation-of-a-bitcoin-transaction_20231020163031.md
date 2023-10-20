@@ -6,35 +6,31 @@
 
 
 
-In this article you will discover the different stages of a transaction [Bitcoin](###), contrary to appearances, a sent transaction is not automatically added to the blockchain, before that it is stored in a waiting list called mempool.
+In this article you will discover the different stages of a transaction[Bitcoin](https://coinacademy.fr/bitcoin-btc-fondamental/), contrary to appearances, a sent transaction is not automatically added to the blockchain, before that it is stored in a waiting list called mempool.
 
 ## **The mempool: the transaction waiting list**
 
-Mempool is short for "Memory Pool". In Bitcoin, the mempool is a kind of "waiting list" for transactions that have not yet been confirmed and included in a block of the [blockchain](###).
+Mempool is short for "Memory Pool". In Bitcoin, the mempool is a kind of "waiting list" for transactions that have not yet been confirmed and included in a block of the [blockchain](https://coinacademy.fr/academie/histoire-blockchain/).
 
-When a transaction [Bitcoin](###)is created, it is first transmitted to all nodes in the network. These nodes verify that the[transaction](###)is valid (e.g. that the sender has enough bitcoins to complete the transaction) and, if so, they add it to their mempool.
+When a transaction[Bitcoin](https://coinacademy.fr/bitcoin-btc-fondamental/)is created, it is first transmitted to all nodes in the network. These nodes verify that the[transaction](https://coinacademy.fr/academie/transaction-blockchain/)is valid (e.g. that the sender has enough bitcoins to complete the transaction) and, if so, they add it to their mempool.
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/transaction-to-block-760x244.jpg.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_53f63d94559feaec.jpg)
 
-Minors of [Bitcoin](###)then draw from their mempool to create new blocks. They generally choose [transactions](###)which offer the highest transaction fees, because these fees are a source of income for them.
+Minors of[Bitcoin](https://coinacademy.fr/bitcoin-btc-fondamental/)then draw from their mempool to create new blocks. They generally choose[transactions](https://coinacademy.fr/academie/transaction-blockchain/)which offer the highest transaction fees, because these fees are a source of income for them.
 
-Once a transaction has been included in a block and that block has been added to the [blockchain](###), the transaction is confirmed and is removed from the mempool.
+Once a transaction has been included in a block and that block has been added to the[blockchain](https://coinacademy.fr/academie/quest-ce-que-blockchain/), the transaction is confirmed and is removed from the mempool.
 
 It should be noted that not all nodes have the same mempool, as transactions may take some time to propagate through the network and nodes may have different policies as to which transactions they accept into their mempool. For example, some nodes may refuse to include transactions with very low transaction fees.
 
-You can view pending transactions in a mempool in real time on the site [txstreet](https://txstreet.com/v/btc).
+You can view pending transactions in a mempool in real time on the site[txstreet](https://txstreet.com/v/btc).
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/mempool-transaction-bitcoin.png.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_fa0258fd37ff33c4.png)
 
-In this image we can see that more than 90,000 transactions are pending, knowing that a block [Bitcoin](###)generally contains 2000 to 4000 transactions. As a reminder, a block is generated every 10 minutes.
+In this image we can see that more than 90,000 transactions are pending, knowing that a block[Bitcoin](https://coinacademy.fr/bitcoin-btc-fondamental/)generally contains 2000 to 4000 transactions. As a reminder, a block is generated every 10 minutes.
 
-The maximum size of a block [Bitcoin](###)is 1 MB (megabyte) in the original Bitcoin protocol, although an update called SegWit (in August 2017) increased this effective limit to around 4 MB per block by changing how certain information is stored .
+The maximum size of a block[Bitcoin](https://coinacademy.fr/bitcoin-btc-fondamental/)is 1 MB (megabyte) in the original Bitcoin protocol, although an update called SegWit (in August 2017) increased this effective limit to around 4 MB per block by changing how certain information is stored .
 
-When the block is filled, it is necessary to wait for the next block to be able to add new transactions. But as seen above, you have to wait on average 10 minutes per block. If you are in a hurry, you will have to [obligation](###)to pay more for your transaction to motivate bitcoin miners to prioritize your transaction.
+When the block is filled, it is necessary to wait for the next block to be able to add new transactions. But as seen above, you have to wait on average 10 minutes per block. If you are in a hurry, you will have to[obligation](https://coinacademy.fr/academie/obligation-entreprise-fonctionnement-explication/)to pay more for your transaction to motivate bitcoin miners to prioritize your transaction.
 
 _FYI: a Bitcoin block can contain 1 to 4 MB of transactions, knowing that a Bitcoin transaction can take around 250 to 500 bytes (i.e. 0.00025 to 0.0005 MB). A Bitcoin block can contain 2000 to 4000 transactions without SegWit and 4 times more with SegWit, i.e. 8000 to 16000 transactions._
 
@@ -44,9 +40,7 @@ In the Bitcoin system, transaction fees are paid by users to miners to prioritiz
 
 Bitcoin transactions are similar to auctions because users "bid" with higher transaction fees to have their transactions prioritized by miners.
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/transaction-etape-par-etape.png.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_b23fa70285e16896.png)
 
 ## **The stages of a transaction until its finalization**
 
@@ -84,17 +78,15 @@ If the bad actor controls a significant amount of mining power on the Bitcoin ne
 
 However, a double spending attack is very difficult to achieve in practice. It requires a huge amount of computing power and is therefore very expensive. Additionally, after each new confirmation, it becomes more and more difficult to cancel a transaction.
 
-If you would like to learn more about the double spend attack, feel free to [consult our dedicated article](###)on this subject.
+If you would like to learn more about the double spend attack, feel free to[consult our dedicated article](https://coinacademy.fr/academie/attaque-double-depense/)on this subject.
 
 ## **View transaction fees on Bitcoin in real time**
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/transaction-bitcoin-mempool.png.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_fa66bda38d580a66.png)
 
-On the site [mempool.space](https://mempool.space/fr/)you can view in real time the estimated price of a transaction necessary for your transaction to be prioritized.
+On the site[mempool.space](https://mempool.space/fr/)you can view in real time the estimated price of a transaction necessary for your transaction to be prioritized.
 
-Sat/vb is a unit of measurement used to determine transaction fees in the Bitcoin network. "Sat" is short for "satoshi," the smallest unit of bitcoin, named in honor of [Satoshi Nakamoto](###), the creator of Bitcoin. One bitcoin is made up of 100 million satoshis.
+Sat/vb is a unit of measurement used to determine transaction fees in the Bitcoin network. "Sat" is short for "satoshi," the smallest unit of bitcoin, named in honor of[Satoshi Nakamoto](https://coinacademy.fr/satoshi-nakamoto/), the creator of Bitcoin. One bitcoin is made up of 100 million satoshis.
 
 "vB" is short for "vByte". It is a measure of the size of a transaction introduced with Bitcoin's SegWit update. Before SegWit, transaction size was measured in bytes. However, SegWit changed the way certain data is counted, leading to the introduction of the "vbyte" measurement.
 
@@ -103,9 +95,11 @@ Therefore, "sat/vB" represents the number of satoshis you are willing to pay in 
 #
 # **What you must remember**
 
+[Free Bitcoin Training – 2023 Edition](https://coinacademy.fr/formations/bitcoin-ca/)[6. Complete Operation of a Bitcoin Transaction](https://coinacademy.fr/cours/fonctionnement-complet-dune-transaction-bitcoin/)[What you must remember](https://coinacademy.fr/chapitres/btc-ce-quil-faut-retenir-6/)
 
+**IN PROGRESS**
 
-- A mempool is a kind of waiting list for transactions that have not yet been confirmed and included in a block of the [blockchain](###).
+- A mempool is a kind of waiting list for transactions that have not yet been confirmed and included in a block of the[blockchain](https://coinacademy.fr/academie/histoire-blockchain/).
 - The mempool is not always perfectly identical across all full nodes. There are several reasons for this, nodes can have different configuration parameters and synchronization problems with the network depending on their location or their internet connection.
 - Cryptocurrency transactions work a bit like auctions: transactions with the most fees are generally processed first.
 - A transaction is considered confirmed when it has been added to a block by an honest miner who has solved a "cryptographic puzzle".

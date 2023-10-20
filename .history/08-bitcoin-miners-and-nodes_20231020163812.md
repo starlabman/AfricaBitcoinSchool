@@ -149,7 +149,9 @@ Many people have embarked on an adventure to mine Ethereum, another cryptocurren
 #
 # **What you must remember**
 
+[Free Bitcoin Training – 2023 Edition](https://coinacademy.fr/formations/bitcoin-ca/)[7. Bitcoin miners and nodes](https://coinacademy.fr/cours/mineurs-et-noeuds-bitcoins/)[What you must remember](https://coinacademy.fr/chapitres/btc-ce-quil-faut-retenir-7/)
 
+**IN PROGRESS**
 
 - There are different types of nodes: full nodes, mining nodes (Mining Nodes or miners) and light nodes.
 - When a miner "mines" bitcoins he is carrying out a task that is time-consuming (which takes time) and is difficult to solve. This task requires good equipment and consumes energy, it is proof of work.

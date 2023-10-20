@@ -104,7 +104,7 @@ _In this image we can see ASIC miners sold by the company Bitmain. Each machine 
 
 Bitcoin mining difficulty: Mining difficulty is a measure of the difficulty of finding a hash lower than the given target when creating a new block. It is adjusted approximately every two weeks to ensure that a new block is mined every 10 minutes on average. The higher the mining difficulty, the less likely you are to mine a block.
 
-The Bitcoin Block Reward: Currently, the block reward is 6.25 bitcoins. However, this reward is halved every four years during events called "halvings". The next [halving]() is scheduled for April 2024.
+The Bitcoin Block Reward: Currently, the block reward is 6.25 bitcoins. However, this reward is halved every four years during events called "halvings". The next[halving](https://coinacademy.fr/academie/bitcoin-prochain-halving-compte-a-rebours/)is scheduled for April 2024.
 
 The price of Bitcoin: The price of Bitcoin constantly fluctuates. If the price of Bitcoin increases, your mining revenue is worth more in terms of dollars or euros. However, if the price drops, your mining revenue may not cover your costs.
 
@@ -116,21 +116,15 @@ There are many Bitcoin mining profitability calculators online where you can ent
 
 Let's imagine we want to mine bitcoins with an ASIC."[Bitmain Bitcoin Miner S19](https://shop.bitmain.com/product/detail?pid=000202305061049401097z99C0ug0660)". We know that this hardware consumes around 3105 Watt per hour and offers computing power (Hash Power) of around 90 terahashes per second (TH/s).
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_f567ad15e78793f9.png)
 
 We can now report all this data on the Cryptocompare simulator[.com](https://www.cryptocompare.com/mining/calculator/btc?HashingPower=90&HashingUnit=TH%2Fs&PowerConsumption=3105&CostPerkWh=0.20&MiningPoolFee=1)by adding the price of our electricity per kWh ($), we can leave the commission percentage of 1% for the mining pool because it is a commission that we will have to pay in all cases if we connect to a pool . As seen earlier, it is almost impossible to successfully mine bitcoin on your own due to lack of power. Typically, Bitcoin mining pools take 1% commission.
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_79edd14993ec68d8.png)
 
 In this simulation, we see that bitcoin mining makes us lose money every month because electricity is far too expensive. Let's try with cheap electricity of around $0.03 per Kilowatt-hour (kWh) instead of $0.20 now:
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_2430659f2b44e74e.png)
 
 This time we are profitable by over $1500 per year at current prices, not bad knowing that ASIC "[Bitmain Bitcoin Miner S19](https://shop.bitmain.com/product/detail?pid=000202305061049401097z99C0ug0660)" costs about $1,000 each. You will have understood, the price of electricity is the crux of the matter and we must add to that the fact that the machines (ASICs) make a lot of noise, the price of Bitcoin can go down and the difficulty in the increase (which will therefore reduce profitability).
 
@@ -149,7 +143,9 @@ Many people have embarked on an adventure to mine Ethereum, another cryptocurren
 #
 # **What you must remember**
 
+[Free Bitcoin Training – 2023 Edition](https://coinacademy.fr/formations/bitcoin-ca/)[7. Bitcoin miners and nodes](https://coinacademy.fr/cours/mineurs-et-noeuds-bitcoins/)[What you must remember](https://coinacademy.fr/chapitres/btc-ce-quil-faut-retenir-7/)
 
+**IN PROGRESS**
 
 - There are different types of nodes: full nodes, mining nodes (Mining Nodes or miners) and light nodes.
 - When a miner "mines" bitcoins he is carrying out a task that is time-consuming (which takes time) and is difficult to solve. This task requires good equipment and consumes energy, it is proof of work.

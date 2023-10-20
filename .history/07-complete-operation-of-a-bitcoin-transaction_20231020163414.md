@@ -45,7 +45,7 @@ In the Bitcoin system, transaction fees are paid by users to miners to prioritiz
 Bitcoin transactions are similar to auctions because users "bid" with higher transaction fees to have their transactions prioritized by miners.
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/transaction-etape-par-etape.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
 ## **The stages of a transaction until its finalization**
@@ -89,7 +89,7 @@ If you would like to learn more about the double spend attack, feel free to [con
 ## **View transaction fees on Bitcoin in real time**
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/transaction-bitcoin-mempool.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
 On the site [mempool.space](https://mempool.space/fr/)you can view in real time the estimated price of a transaction necessary for your transaction to be prioritized.
