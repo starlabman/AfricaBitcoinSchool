@@ -1,10 +1,4 @@
- <div align="center">
-  <br>
-  <img alt="Africa Bitcoin School" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
-  <h1>🍕 Intro to bitcoin with OpenSauced 🍕</h1>
-  <strong>The site provides course materials for Africa Bitcoin School's Intro to bitcoin.</strong>
-</div>
-<br>
+
 
 Welcome to the  Bitcoin & Lightning  Course with Africa Bitcoin School! This course is designed to provide you with an introduction to bitcoin and her benefics.
 
