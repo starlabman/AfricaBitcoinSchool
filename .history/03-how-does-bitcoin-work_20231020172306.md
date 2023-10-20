@@ -3,6 +3,8 @@
 
 
 
+
+
 Bitcoin works thanks to a combination of technologies: encryption algorithms (cryptography), a decentralized network and a consensus mechanism: the [Proof of Work](###).
 
 The operating logic of Bitcoin is simple: [to secure](###)Bitcoin (the protocol) by rewarding the actors who make it work in bitcoins (the currency).
