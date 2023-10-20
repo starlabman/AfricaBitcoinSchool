@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 Welcome to the  Bitcoin & Lightning  Course with Africa Bitcoin School! This course is designed to provide you with an introduction to bitcoin and her benefics.
@@ -80,6 +81,8 @@ Happy learning and contributing!
  
  
  
+=======
+>>>>>>> parent of ff8caae (images)
  Africa Bitcoin School
 Education and E-Learning
 

@@ -6,7 +6,7 @@
 
 ## **Cryptocurrencies: a new asset class with a promising future**
 
-Cryptocurrencies and more particularly Bitcoin have revolutionized the way in which[transactions](https://coinacademy.fr/wp-content/uploads/2022/10/bitcoin-mining-1160x587.png.webp)Financial transactions are carried out online.<p> fdythjytjyujyueftg<img src="https://coinacademy.fr/wp-content/uploads/2022/10/bitcoin-mining-1160x587.png.webp" alt="starlabman" /></a> </p>
+Cryptocurrencies and more particularly Bitcoin have revolutionized the way in which[transactions](https://coinacademy.fr/academie/transaction-blockchain/)Financial transactions are carried out online.
 
 Unlike traditional currencies issued and regulated by central banks, cryptocurrencies are decentralized and based on blockchain technology. This technology makes it possible to create a public and tamper-proof register of transactions, without the need for trusted third parties.
 
