@@ -199,19 +199,19 @@ As mentioned above this is not ideal because there are Bitcoin transaction fees,
 Now we will have to place our Lightning address in the field "your Bitcoin address (Lightning) of FixedFloat, for my part I will click on the Webcam option in order to scan the QR Core of my phone and save time, the address will thus being deposited automatically in the field.
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/fixedfloat-deposer-adresse-1.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
   </a> 
 
 Once your long Lightning address has been placed in this field (do not use the wrong address otherwise you will not receive your money), click on "exchange now", the page will show you the Bitcoin address on which you will need send your funds in order to receive your Bitcoin on the Lightning network, you can copy it and deposit it on your wallet or in the address field on the centralized exchange you use.
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/envoie-bitcoin-fixedfloat-1.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
   </a> 
 
 In our case on Coinbase this will give this:
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/deposer-adresse-coinbase-1.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
   </a> 
 
 All you have to do is click on "Continue" then "Send now".

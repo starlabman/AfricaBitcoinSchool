@@ -211,7 +211,7 @@ Once your long Lightning address has been placed in this field (do not use the w
 In our case on Coinbase this will give this:
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/deposer-adresse-coinbase-1.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
   </a> 
 
 All you have to do is click on "Continue" then "Send now".

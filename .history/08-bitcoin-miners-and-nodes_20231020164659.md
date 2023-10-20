@@ -129,7 +129,7 @@ We can now report all this data on the Cryptocompare simulator[.com](https://www
 In this simulation, we see that bitcoin mining makes us lose money every month because electricity is far too expensive. Let's try with cheap electricity of around $0.03 per Kilowatt-hour (kWh) instead of $0.20 now:
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-mining-rentable.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
 This time we are profitable by over $1500 per year at current prices, not bad knowing that ASIC "[Bitmain Bitcoin Miner S19](https://shop.bitmain.com/product/detail?pid=000202305061049401097z99C0ug0660)" costs about $1,000 each. You will have understood, the price of electricity is the crux of the matter and we must add to that the fact that the machines (ASICs) make a lot of noise, the price of Bitcoin can go down and the difficulty in the increase (which will therefore reduce profitability).

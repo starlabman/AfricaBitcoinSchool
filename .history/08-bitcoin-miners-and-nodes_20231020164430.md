@@ -36,12 +36,12 @@ Here is how the process works for an individual minor:
 It is thanks to this proof of work process that [Bitcoin](###)manages to maintain the security and integrity of its decentralized network. Each miner contributes to this process by participating in the competition to find the next valid block.
 
 <a href= "">
-    <img src=https://media.discordapp.net/attachments/1022903365463703582/1164967450757038191/1AA.jpg?ex=6545237c&is=6532ae7c&hm=78cb7ced443f80739664849ad3f81c2cd779a82a9cbc93d284dc380955026d72&=&width=1000&height=562 alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
 ## **Quick history of the evolution of hardware for mining Bitcoin**
 
-The evolution of mining equipment [Bitcoin](###)has followed a rapid and exciting trajectory, characterized by innovation and constant improvement in efficiency. Here is an overview of this development:
+The evolution of mining equipment [Bitcoin]()has followed a rapid and exciting trajectory, characterized by innovation and constant improvement in efficiency. Here is an overview of this development:
 
 1. Processors (CPU): Originally, mining [Bitcoin](###) was carried out on personal computers using processors (CPU). This is how the creator of Bitcoin, Satoshi [Nakamoto](###), mined the first blocks of Bitcoin.
 2. Graphics Cards (GPU): Miners quickly discovered that graphics cards were much more efficient for Bitcoin mining than CPUs. GPUs are designed to perform parallel calculations for graphics rendering, which happens to be very useful for Bitcoin mining.
@@ -71,7 +71,7 @@ Rewards are typically shared in proportion to the computing power each member co
 Mining pools allow individual miners to receive more regular and predictable, although generally smaller, payouts rather than relying on luck to obtain a large block reward.
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-mining-pool.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a>  Bitcoin Mining Pools –[Source HashrateIndex](https://hashrateindex.com/hashrate/pools)
 
 There are many different mining pools, each with their own rules, fees, and payment methods. Some of the largest and most well-known include Foundry USA, F2Pool, and Antpool.
@@ -85,7 +85,7 @@ The cost of electricity: Bitcoin mining consumes a lot of electricity. The cost 
 Since Russia's invasion of Ukraine in February 2022, the price of electricity in Europe for individuals and professionals has exploded. The price of the kWh EDF (Électrcité de France) is currently ~0.21€ for individuals and professionals, you can find much cheaper electricity in other countries in Africa and Asia ([source](https://fr.globalpetrolprices.com/electricity_prices/)). It is therefore not advisable to mine seriously in Europe.
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/prix-electricite-pas-chere.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
 _Be careful, it may be tempting to want to get into bitcoin mining in certain African or Asian countries but there is always the risk of your equipment being seized by the state or burglarized._
@@ -97,7 +97,7 @@ The power consumption of your mining hardware: Besides mining power, you also ne
 The cost of mining hardware: ASIC mining machines can cost several thousand dollars. It is important to take into account the initial cost of your hardware when calculating profitability.
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/asic-miner-bitmain-bitcoin-1.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
 _In this image we can see ASIC miners sold by the company Bitmain. Each machine has a price, a computing power measured in terahashes per second (T) and a displayed energy consumption. We will see below how to simulate the profitability of Bitcoin mining._
@@ -117,19 +117,19 @@ There are many Bitcoin mining profitability calculators online where you can ent
 Let's imagine we want to mine bitcoins with an ASIC."[Bitmain Bitcoin Miner S19](https://shop.bitmain.com/product/detail?pid=000202305061049401097z99C0ug0660)". We know that this hardware consumes around 3105 Watt per hour and offers computing power (Hash Power) of around 90 terahashes per second (TH/s).
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitmain-bitcoin-miner-s19.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
 We can now report all this data on the Cryptocompare simulator[.com](https://www.cryptocompare.com/mining/calculator/btc?HashingPower=90&HashingUnit=TH%2Fs&PowerConsumption=3105&CostPerkWh=0.20&MiningPoolFee=1)by adding the price of our electricity per kWh ($), we can leave the commission percentage of 1% for the mining pool because it is a commission that we will have to pay in all cases if we connect to a pool . As seen earlier, it is almost impossible to successfully mine bitcoin on your own due to lack of power. Typically, Bitcoin mining pools take 1% commission.
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/cryptocompare-mining-bitcoin.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
 In this simulation, we see that bitcoin mining makes us lose money every month because electricity is far too expensive. Let's try with cheap electricity of around $0.03 per Kilowatt-hour (kWh) instead of $0.20 now:
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-mining-rentable.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
 This time we are profitable by over $1500 per year at current prices, not bad knowing that ASIC "[Bitmain Bitcoin Miner S19](https://shop.bitmain.com/product/detail?pid=000202305061049401097z99C0ug0660)" costs about $1,000 each. You will have understood, the price of electricity is the crux of the matter and we must add to that the fact that the machines (ASICs) make a lot of noise, the price of Bitcoin can go down and the difficulty in the increase (which will therefore reduce profitability).

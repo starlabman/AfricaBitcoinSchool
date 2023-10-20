@@ -37,7 +37,7 @@ Closing the Lightning payment channel: When the two people (or 2 companies) have
 
 There are therefore only 2 transactions on the Bitcoin blockchain, an opening transaction and a channel closing transaction, all other transactions take place outside the Bitcoin blockchain (offchain).
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-et-stats.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
   </a> 
   Lightning Network Stats –[Source mempool.space/lightning](https://mempool.space/lightning)
 
@@ -62,7 +62,7 @@ When you're done playing, you count how many Legos each person has and write the
 The Lightning Network works the same way. Instead of writing each Bitcoin transaction to the blockchain (the notebook), users open a "channel" between them and only write the final balance to the blockchain once they have completed their transactions, this end result c 'is what the "close channel transaction" will write.
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/offchain-transaction-lightning.jpg.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
   </a> 
   Example offchain transaction –[Source Arcane Research](https://k33.com/research/archive/articles/how-does-the-lightning-network-function)
 
@@ -81,7 +81,7 @@ There are several reasons why the Lightning Network is not more widely adopted, 
 These issues are being actively addressed by Lightning Network developers and adoption of the network is growing. However, it is likely that it will still be some time before the Lightning Network becomes a standard method for conducting Bitcoin transactions.
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-lightning-network-1.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
   </a> 
   Total value locked in Lightning Network (May 2023) –[Source Defillama](https://defillama.com/protocol/lightning-network)
 
@@ -111,7 +111,7 @@ Once the path is found, the transaction is completed. Each node (building) on �
 Fees on Lightning are much lower than on the Bitcoin blockchain because there are more routes available and the competition between them helps keep fees low.
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/understand-lightning-network-fees-diamond-hands.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
   </a> 
   Transaction Routing Example –[Source report Diamond hands](https://docsend.com/view/x2yscafayexddzps)
 
@@ -125,7 +125,7 @@ In order to be able to receive satoshi or bitcoins on your[Phoenix Wallet](https
 You can find on this[Github](https://github.com/theDavidCoen/LightningExchanges)a complete list of centralized exchanges that manage the Lightning Network.
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/exchange-lightning-network.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
   </a> 
 
 ## **Install Phoenix Wallet on your smartphone to use Lightning**
@@ -189,7 +189,7 @@ We advise you to use a centralized exchange like [Kraken](###)to withdraw your f
 First, connect to your exchange or your wallet, in my case I will go to [Coinbase](###). Select Bitcoin in your[assets](###/)then click send. On Coinbase you will need to click on the "Send and receive" button at the top right.
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/coinbase-envoyer-bitcoin-ln-2.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
   </a> 
 
 Now go to[FixedFloat](https://fixedfloat.com/fr/), we will define the amount in bitcoin that we wish to send, for this example we wish to send 0.0003 BTC or approximately €7.5 (not including transaction fees) and we should receive 0.00017022 BTC LN (i.e. ~4.5€), it It is important to have at least 10000 sats or 0.00010000 BTC LN otherwise Phoenix Wallet will not receive the money.
@@ -199,19 +199,19 @@ As mentioned above this is not ideal because there are Bitcoin transaction fees,
 Now we will have to place our Lightning address in the field "your Bitcoin address (Lightning) of FixedFloat, for my part I will click on the Webcam option in order to scan the QR Core of my phone and save time, the address will thus being deposited automatically in the field.
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/fixedfloat-deposer-adresse-1.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
   </a> 
 
 Once your long Lightning address has been placed in this field (do not use the wrong address otherwise you will not receive your money), click on "exchange now", the page will show you the Bitcoin address on which you will need send your funds in order to receive your Bitcoin on the Lightning network, you can copy it and deposit it on your wallet or in the address field on the centralized exchange you use.
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/envoie-bitcoin-fixedfloat-1.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
   </a> 
 
 In our case on Coinbase this will give this:
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/deposer-adresse-coinbase-1.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
   </a> 
 
 All you have to do is click on "Continue" then "Send now".

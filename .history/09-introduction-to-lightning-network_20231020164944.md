@@ -21,7 +21,7 @@ Scalability is a major challenge for [cryptocurrencies](###), because it is nece
 
 The Lightning Network is a "second layer" or Layer 2 solution designed to accelerate transactions on [Bitcoin](###). It was developed to solve the scalability problems of [Bitcoin](###) enabling fast, low-cost transactions.
 
-The transactional capacity of [Lightning Network](###)is theoretically very high and could potentially handle millions of transactions per second. This is due to the nature of its architecture, which allows transactions outside of the bictoin blockchain (offchain).
+The transactional capacity of [Lightning Network](https://coinacademy.fr/dossier/a-quoi-sert-le-lightning-network-de-bitcoin/)is theoretically very high and could potentially handle millions of transactions per second. This is due to the nature of its architecture, which allows transactions outside of the bictoin blockchain (offchain).
 
 Here's how it works:
 
@@ -36,10 +36,8 @@ Transactions in the payment channel (offchain): each transaction made in the cha
 Closing the Lightning payment channel: When the two people (or 2 companies) have completed their transactions, they close the channel by creating a so-called "channel closure" transaction on the Bitcoin blockchain which reflects the final distribution of bitcoins. This is the only other transaction that must be recorded on the blockchain, no matter how many transactions were made in the Lightning channel.
 
 There are therefore only 2 transactions on the Bitcoin blockchain, an opening transaction and a channel closing transaction, all other transactions take place outside the Bitcoin blockchain (offchain).
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-et-stats.png.webp alt="ZTM Logo" >
-  </a> 
-  Lightning Network Stats –[Source mempool.space/lightning](https://mempool.space/lightning)
+
+![](RackMultipart20231011-1-et3x4p_html_7082f51be575be90.png)Lightning Network Stats –[Source mempool.space/lightning](https://mempool.space/lightning)
 
 ### **Lightning Channel Network**
 
@@ -61,10 +59,7 @@ When you're done playing, you count how many Legos each person has and write the
 
 The Lightning Network works the same way. Instead of writing each Bitcoin transaction to the blockchain (the notebook), users open a "channel" between them and only write the final balance to the blockchain once they have completed their transactions, this end result c 'is what the "close channel transaction" will write.
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/offchain-transaction-lightning.jpg.webp alt="ZTM Logo" >
-  </a> 
-  Example offchain transaction –[Source Arcane Research](https://k33.com/research/archive/articles/how-does-the-lightning-network-function)
+![](RackMultipart20231011-1-et3x4p_html_8f794e4b283b9101.jpg)Example offchain transaction –[Source Arcane Research](https://k33.com/research/archive/articles/how-does-the-lightning-network-function)
 
 ## **What are the flaws of Lightning Network and why is it not used more?**
 
@@ -80,10 +75,7 @@ There are several reasons why the Lightning Network is not more widely adopted, 
 
 These issues are being actively addressed by Lightning Network developers and adoption of the network is growing. However, it is likely that it will still be some time before the Lightning Network becomes a standard method for conducting Bitcoin transactions.
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-lightning-network-1.png.webp alt="ZTM Logo" >
-  </a> 
-  Total value locked in Lightning Network (May 2023) –[Source Defillama](https://defillama.com/protocol/lightning-network)
+![](RackMultipart20231011-1-et3x4p_html_65b786dfa0e1c9e6.png)Total value locked in Lightning Network (May 2023) –[Source Defillama](https://defillama.com/protocol/lightning-network)
 
 ## **Some use cases for Lightning Network**
 
@@ -91,7 +83,7 @@ The Lightning Network was designed to enable faster and cheaper Bitcoin transact
 
 1. Online Payment and Instant Commerce: For online merchants, accepting payments through the Lightning Network can help reduce transaction fees and speed up the payment process. Transactions on the Lightning Network are almost instantaneous, which can be useful for merchants who need to confirm payments quickly. The Lightning Network is perfect for purchasing digital products, like apps, games, e-books, and more.
 2. Tipping online, in restaurants, bars or taxis: The Lightning Network can be used to tip especially for small amounts of money where traditional transaction fees would make tipping unprofitable. You like a creator's content on YouTube or Twitch and want to pay them quickly, Lightning Network is the ideal solution for this.
-3. Micropayments: Due to low or no transaction fees on the Lightning Network, it is possible to make micropayments, which is generally not economical on the main Bitcoin blockchain due to higher transaction fees. This could make it possible to pay quickly to unlock access to online content such as newspapers, mobile applications or games.[video](###)For example.
+3. Micropayments: Due to low or no transaction fees on the Lightning Network, it is possible to make micropayments, which is generally not economical on the main Bitcoin blockchain due to higher transaction fees. This could make it possible to pay quickly to unlock access to online content such as newspapers, mobile applications or games.[video](https://coinacademy.fr/tag/videos-podcasts/)For example.
 4. Payment streaming services: The Lightning Network could be used to create payment streaming services, where users pay for every second (or other small unit of time) of a service they use like listening to music or audio podcasts.
 
 These use cases are just a few examples of the many possibilities offered by the Lightning Network. As the technology continues to develop and mature, it is likely that new use cases will emerge.
@@ -110,39 +102,33 @@ Once the path is found, the transaction is completed. Each node (building) on �
 
 Fees on Lightning are much lower than on the Bitcoin blockchain because there are more routes available and the competition between them helps keep fees low.
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/understand-lightning-network-fees-diamond-hands.png.webp alt="ZTM Logo" >
-  </a> 
-  Transaction Routing Example –[Source report Diamond hands](https://docsend.com/view/x2yscafayexddzps)
+![](RackMultipart20231011-1-et3x4p_html_32184bf805417.png)Transaction Routing Example –[Source report Diamond hands](https://docsend.com/view/x2yscafayexddzps)
 
 ## **How to install and use a Lightning Network wallet**
 
 There are still many wallets on PCs and smartphones allowing you to interact with the Lightning Network. For this tutorial we will use the[Phoenix Wallet](https://phoenix.acinq.co/)which is a simple smartphone wallet, non-custodial, so you have total control of your funds.
 
-In order to be able to receive satoshi or bitcoins on your[Phoenix Wallet](https://phoenix.acinq.co/)you need to find a way to send and receive payments on the Lightning Network, because yes, the Lightning Network is not the same as the original Bitcoin network, so you should not send your bitcoins from your Blockstream Green wallet, Exodus or from an exchange that does not manage Lightning Network like Binance because Binance does not (yet) manage the Lightning Network,
-[but it should happen soon](https://twitter.com/binance/status/1655419624962527233).
+In order to be able to receive satoshi or bitcoins on your[Phoenix Wallet](https://phoenix.acinq.co/)you need to find a way to send and receive payments on the Lightning Network, because yes, the Lightning Network is not the same as the original Bitcoin network, so you should not send your bitcoins from your Blockstream Green wallet, Exodus or from an exchange that does not manage Lightning Network like Binance because Binance does not (yet) manage the Lightning Network,[but it should happen soon](https://twitter.com/binance/status/1655419624962527233).
 
 You can find on this[Github](https://github.com/theDavidCoen/LightningExchanges)a complete list of centralized exchanges that manage the Lightning Network.
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/exchange-lightning-network.png.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_e0ef132e6ad131f0.png)
 
 ## **Install Phoenix Wallet on your smartphone to use Lightning**
 
-Go to the [official site](https://phoenix.acinq.co/)from Phoenix Wallet or directly on the [Apple Store](https://apps.apple.com/us/app/phoenix-wallet/id1544097028) where the [Google Play Store](https://play.google.com/store/apps/details?id=fr.acinq.phoenix.mainnet)In order to download the Phoenix Wallet, install it, launch it then read the information displayed on the screen and click continue.
+Go to the[official site](https://phoenix.acinq.co/)from Phoenix Wallet or directly on the[Apple Store](https://apps.apple.com/us/app/phoenix-wallet/id1544097028)where the[Google Play Store](https://play.google.com/store/apps/details?id=fr.acinq.phoenix.mainnet)In order to download the Phoenix Wallet, install it, launch it then read the information displayed on the screen and click continue.
 
-Once the wallet is in place, click on the receive button, it will display a QR Code that you can scan with another application or your computer webcam to save time and not have to copy paste the receiving address. Alternatively, you can click on the "copy" button to copy your (very) long Lightning Network address, you are now ready to receive [satoshi](###)(sats) on your wallet!
+Once the wallet is in place, click on the receive button, it will display a QR Code that you can scan with another application or your computer webcam to save time and not have to copy paste the receiving address. Alternatively, you can click on the "copy" button to copy your (very) long Lightning Network address, you are now ready to receive[satoshi](https://coinacademy.fr/satoshi-nakamoto/)(sats) on your wallet!
 
 ## **OPTION 1: Send bitcoins (BTC) and receive BTC LN via Phoenix Wallet**
 
-This option is ideal for paying low conversion fees between Bitcoin (BTC) and[BTC](###)converted for the Lightning Network (BTC LN).
+This option is ideal for paying low conversion fees between Bitcoin (BTC) and[BTC](https://coinacademy.fr/bitcoin-btc/)converted for the Lightning Network (BTC LN).
 
-Please note that it is also possible to directly deposit funds in Bitcoin ([BTC](###)) on Phoenix Wallet in order to receive Bitcoin (Lightning), the company Aquin which is responsible for developing the Phoenix Wallet will ensure the conversion of your native BTC into BTC LN (Bitcoin Lightning) for you by applying a slight commission of 1%, this solution. Please note, the Phoenix Wallet is NOT a wallet designed to store native BTC.
+Please note that it is also possible to directly deposit funds in Bitcoin ([BTC](https://coinacademy.fr/bitcoin-btc/)) on Phoenix Wallet in order to receive Bitcoin (Lightning), the company Aquin which is responsible for developing the Phoenix Wallet will ensure the conversion of your native BTC into BTC LN (Bitcoin Lightning) for you by applying a slight commission of 1%, this solution. Please note, the Phoenix Wallet is NOT a wallet designed to store native BTC.
 
 If you wish to receive bitcoins (BTC) to convert them, go to the Phoenix Wallet application, click on "Receive" then "Show a Bitcoin address" finally, copy this address and use it from a centralized exchange or a wallet in order to to be able to send bitcoins to your Phoenix Wallet.
 
-Do you want to send funds from a wallet or exchange to another wallet but are you afraid of doing something stupid? [Do not hesitate to consult our dedicated article on the subject.](###)
+Do you want to send funds from a wallet or exchange to another wallet but are you afraid of doing something stupid?[Do not hesitate to consult our dedicated article on the subject.](https://coinacademy.fr/academie/transferer-ses-crypto-dun-exchange-a-un-wallet-coinbase-binance-ledger/)
 
 
 
@@ -150,9 +136,7 @@ Do you want to send funds from a wallet or exchange to another wallet but are yo
 
 ![](RackMultipart20231011-1-et3x4p_html_60034f0998f3b523.png)
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_4fcb66a939a4c833.png)
 
 You must send at least 10,000 satoshi or 0.00010000 BTC for your transfer to be taken into account by Phoenix Wallet, otherwise your transaction will not arrive at its destination and your funds will be lost.
 
@@ -162,9 +146,7 @@ The transaction can take several tens of minutes depending on the transaction fe
 
 ![](RackMultipart20231011-1-et3x4p_html_752079e986cc6539.png)
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_f362661be0203de0.png)
 
 Once the transaction is completed and added to the blockchain, you will receive your funds in your Phoenix Wallet.
 
@@ -174,9 +156,7 @@ Well done, you are now in the Lightning Network. You can save your recovery key 
 
 ![](RackMultipart20231011-1-et3x4p_html_8f69c821d37b4528.png)
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_4134178879998aa0.png)
 
 ## **OPTION 2: FixedFloat, transform your bitcoins (BTC) into bitcoins on the Lightning network (BTC LN)**
 
@@ -184,13 +164,11 @@ As an example for this tutorial, we will send bitcoins from the centralized exch
 
 _If you want to test a FixedFloat competitor, you can also try_[_Boltz Exchange_](https://boltz.exchange/)_._
 
-We advise you to use a centralized exchange like [Kraken](###)to withdraw your funds directly to your Phoenix Wallet via the Lightning Network.
+We advise you to use a centralized exchange like[Kraken](https://coinacademy.fr/exchange/kraken/)to withdraw your funds directly to your Phoenix Wallet via the Lightning Network.
 
-First, connect to your exchange or your wallet, in my case I will go to [Coinbase](###). Select Bitcoin in your[assets](###/)then click send. On Coinbase you will need to click on the "Send and receive" button at the top right.
+First, connect to your exchange or your wallet, in my case I will go to[Coinbase](https://coinacademy.fr/exchange/coinbase/). Select Bitcoin in your[assets](https://coinacademy.fr/academie/actif-passif-crypto/)then click send. On Coinbase you will need to click on the "Send and receive" button at the top right.
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/coinbase-envoyer-bitcoin-ln-2.png.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_e5601f8ef7ea77b0.png)
 
 Now go to[FixedFloat](https://fixedfloat.com/fr/), we will define the amount in bitcoin that we wish to send, for this example we wish to send 0.0003 BTC or approximately €7.5 (not including transaction fees) and we should receive 0.00017022 BTC LN (i.e. ~4.5€), it It is important to have at least 10000 sats or 0.00010000 BTC LN otherwise Phoenix Wallet will not receive the money.
 
@@ -198,21 +176,15 @@ As mentioned above this is not ideal because there are Bitcoin transaction fees,
 
 Now we will have to place our Lightning address in the field "your Bitcoin address (Lightning) of FixedFloat, for my part I will click on the Webcam option in order to scan the QR Core of my phone and save time, the address will thus being deposited automatically in the field.
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/fixedfloat-deposer-adresse-1.png.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_ae46dce38e39c834.png)
 
 Once your long Lightning address has been placed in this field (do not use the wrong address otherwise you will not receive your money), click on "exchange now", the page will show you the Bitcoin address on which you will need send your funds in order to receive your Bitcoin on the Lightning network, you can copy it and deposit it on your wallet or in the address field on the centralized exchange you use.
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/envoie-bitcoin-fixedfloat-1.png.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_e918d6eac65a5fd9.png)
 
 In our case on Coinbase this will give this:
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/deposer-adresse-coinbase-1.png.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_cc87ba2a5937a9d.png)
 
 All you have to do is click on "Continue" then "Send now".
 
@@ -222,19 +194,19 @@ The transaction can take several tens of minutes depending on the transaction fe
 
 ![](RackMultipart20231011-1-et3x4p_html_ef823151dd30ea55.png)
 
-<a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
-  </a> 
+![](RackMultipart20231011-1-et3x4p_html_e77c21bcfe856721.png)
 
 Well done, you are now in the Lightning Network. You can save your recovery key on paper or on a solution like Bitwarden, the same way for your Blockstream Green or Exodus wallet.
 
 #
 # **What you must remember**
 
+[Free Bitcoin Training – 2023 Edition](https://coinacademy.fr/formations/bitcoin-ca/)[8. Introduction to Lightning Network](https://coinacademy.fr/cours/introduction-a-lightning-network/)[What you must remember](https://coinacademy.fr/chapitres/btc-ce-quil-faut-retenir-8/)
 
+**IN PROGRESS**
 
-- [Bitcoin](###)was designed to promote decentralization, censorship resistance and security at the expense of scalability.
-- Scalability refers to the capacity of a [crypto](###)currency as a whole (blockchain network) to handle an increase in transaction volume while maintaining efficient performance.
+- [Bitcoin](https://coinacademy.fr/bitcoin-btc-fondamental/)was designed to promote decentralization, censorship resistance and security at the expense of scalability.
+- Scalability refers to the capacity of a[crypto](https://coinacademy.fr/academie/cryptomonnaie-crypto-monnaie/)currency as a whole (blockchain network) to handle an increase in transaction volume while maintaining efficient performance.
 - Lightning Network is a layer 2 network built on top of Bitcoin.
 - Lightning Network can help reduce transaction fees and speed up payments.
 - Lightning Network transaction routing is the process by which transactions are transmitted through a series of participating nodes in the Lightning Network, from payer to recipient, efficiently and securely.

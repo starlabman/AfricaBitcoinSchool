@@ -117,19 +117,19 @@ There are many Bitcoin mining profitability calculators online where you can ent
 Let's imagine we want to mine bitcoins with an ASIC."[Bitmain Bitcoin Miner S19](https://shop.bitmain.com/product/detail?pid=000202305061049401097z99C0ug0660)". We know that this hardware consumes around 3105 Watt per hour and offers computing power (Hash Power) of around 90 terahashes per second (TH/s).
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitmain-bitcoin-miner-s19.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
 We can now report all this data on the Cryptocompare simulator[.com](https://www.cryptocompare.com/mining/calculator/btc?HashingPower=90&HashingUnit=TH%2Fs&PowerConsumption=3105&CostPerkWh=0.20&MiningPoolFee=1)by adding the price of our electricity per kWh ($), we can leave the commission percentage of 1% for the mining pool because it is a commission that we will have to pay in all cases if we connect to a pool . As seen earlier, it is almost impossible to successfully mine bitcoin on your own due to lack of power. Typically, Bitcoin mining pools take 1% commission.
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/cryptocompare-mining-bitcoin.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
 In this simulation, we see that bitcoin mining makes us lose money every month because electricity is far too expensive. Let's try with cheap electricity of around $0.03 per Kilowatt-hour (kWh) instead of $0.20 now:
 
 <a href= "">
-    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-mining-rentable.png.webp alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
 This time we are profitable by over $1500 per year at current prices, not bad knowing that ASIC "[Bitmain Bitcoin Miner S19](https://shop.bitmain.com/product/detail?pid=000202305061049401097z99C0ug0660)" costs about $1,000 each. You will have understood, the price of electricity is the crux of the matter and we must add to that the fact that the machines (ASICs) make a lot of noise, the price of Bitcoin can go down and the difficulty in the increase (which will therefore reduce profitability).
