@@ -71,6 +71,9 @@ For this example, we will pay by credit card because it is faster. Once the amou
     <img src=https://media.discordapp.net/attachments/1022903365463703582/1164972036746129419/image.png?ex=654527c1&is=6532b2c1&hm=7dde3c5a9a9c8e2f310e0a6bfeadc29de18545e1534faeef4fc1005e8aac2ff2&=&width=1119&height=562 alt="ZTM Logo" >
   </a> 
 
+<a href= "">
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/acheter-btc-euro-cb-2.png.webp alt="ZTM Logo" >
+  </a> 
 
 After identification, you can choose the address to receive the bitcoins, by default, it will be the address created by Bridge Wallet then click on "Next", provide your payment information and pay.
 
@@ -81,10 +84,12 @@ After identification, you can choose the address to receive the bitcoins, by def
 Once the funds are received in your Bridge Wallet, you will be able to transfer them from the Bridge Wallet application by clicking on the [blockchain]()Bitcoin at the top left then selecting the Bitcoin asset and clicking "Send".
 
 <a href= "">
-    <img src=https://media.discordapp.net/attachments/1022903365463703582/1164971912280150077/image.png?ex=654527a4&is=6532b2a4&hm=6bd7ff1c23517e4897cc70e7e9ddafc2895c94002b404315c26caad23051c924&=&width=804&height=562 alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
   </a> 
 
- 
+<a href= "">
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/bitcoin-inflation.png.webp alt="ZTM Logo" >
+  </a> 
 
 On the Blockstream Green application, click on the "Receive" button and copy the address indicated on the screen then drop it into the Bitcoin Address field on Bridge Wallet.
 

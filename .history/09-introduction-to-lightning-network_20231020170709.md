@@ -146,24 +146,33 @@ Do you want to send funds from a wallet or exchange to another wallet but are yo
 
 
 
+![](RackMultipart20231011-1-et3x4p_html_e46445a408f2f838.png)
+
+![](RackMultipart20231011-1-et3x4p_html_60034f0998f3b523.png)
 
 <a href= "">
-    <img src=https://media.discordapp.net/attachments/1022903365463703582/1164972415802155028/image.png?ex=6545281c&is=6532b31c&hm=2abadb0bacfdd59d6322ed4be2a46ddc2342eb8937076647b0bc49ff0a5f3b04&=&width=808&height=562 alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
   </a> 
 
 You must send at least 10,000 satoshi or 0.00010000 BTC for your transfer to be taken into account by Phoenix Wallet, otherwise your transaction will not arrive at its destination and your funds will be lost.
 
 The transaction can take several tens of minutes depending on the transaction fees applied by the exchange and the slowness of the Bitcoin network. You will have to be patient... Your Phoenix Wallet will notify you when the transaction has been added to the blockchain with a "+13000 sat incoming" notification to tell you that they will soon be added to your solid.
 
+![](RackMultipart20231011-1-et3x4p_html_c23ab3bc130057f6.png)
+
+![](RackMultipart20231011-1-et3x4p_html_752079e986cc6539.png)
 
 <a href= "">
-    <img src=https://media.discordapp.net/attachments/1022903365463703582/1164972533641134161/image.png?ex=65452838&is=6532b338&hm=30d7035a4568bd31fa635a21e6e6c957e26197c4790ba88b94bfc1eebe8cd745&=&width=793&height=562 alt="ZTM Logo" >
+    <img src=https://coinacademy.fr/wp-content/uploads/2023/05/lightning-network-layer-2-1536x856.jpg.webp alt="ZTM Logo" >
   </a> 
 
 Once the transaction is completed and added to the blockchain, you will receive your funds in your Phoenix Wallet.
 
 Well done, you are now in the Lightning Network. You can save your recovery key on paper or on a solution like Bitwarden, the same way for your Blockstream Green or Exodus wallet.
 
+![](RackMultipart20231011-1-et3x4p_html_a4e7d93dcff7d1dd.png)
+
+![](RackMultipart20231011-1-et3x4p_html_8f69c821d37b4528.png)
 
 <a href= "">
     <img src=https://media.discordapp.net/attachments/1022903365463703582/1164972701589438484/image.png?ex=65452860&is=6532b360&hm=13694a88c5b8c5530d874f9dcc7cd524ccfc9cff7f7902b663c6003ed3dd2d73&=&width=802&height=562 alt="ZTM Logo" >
